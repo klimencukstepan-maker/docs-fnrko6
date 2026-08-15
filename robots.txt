@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-01evm4.saturadar88win.sbs/sitemap.xml
